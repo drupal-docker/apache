@@ -5,6 +5,7 @@ services:
 
 env:
   matrix:
+    - DOCKERFILE="Dockerfile" DOCKERPATH="2.4"
     - DOCKERFILE="Dockerfile-alpine" DOCKERPATH="2.4"
 
 before_script:
