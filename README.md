@@ -7,3 +7,4 @@ APACHE
 Version | Tags | Dockerfile
 --- | --- | ---
 2.4 | `latest`, `2.4` | [Dockerfile](https://github.com/drupal-docker/apache/blob/master/2.4/Dockerfile)
+ | `2.4-alpine` | [Dockerfile](https://github.com/drupal-docker/apache/blob/master/2.4/Dockerfile-alpine)
